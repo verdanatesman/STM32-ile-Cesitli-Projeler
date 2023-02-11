@@ -1,0 +1,7 @@
+Nokia5110.c:11:6:Nokia5110_Init	8	static
+Nokia5110.c:31:6:Nokia5110_Update	8	static
+Nokia5110.c:45:6:Nokia5110_Reset	8	static
+Nokia5110.c:53:6:Nokia5110_Clear	16	static
+Nokia5110.c:59:6:Nokia5110_SetPixel	24	static
+Nokia5110.c:80:6:Nokia5110_Write	16	static
+Nokia5110.c:99:6:Nokia5110_BufferWrite	16	static
